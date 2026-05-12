@@ -8,9 +8,13 @@
 
 ### 🛠 Technical Ecosystem
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,electron,nodejs,py,go,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,githubactions,git,bash" />
+</div>
+
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Development** | `TypeScript` `React` `Next.js` `Electron` `Node.js` `Python` |
 | **GIS & Mapping** | `GDAL` `rio-tiler` `OpenLayers` `WebP Tiling` `Custom Map Engines` |
 | **AI & Automation** | `LLM API Gateways` `GPT-5.3 Integration` `Automated Workflows` |
 
