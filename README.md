@@ -36,23 +36,24 @@
 ## 📊 System Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAsh-Dev&theme=react-dark&hide_border=true&area=true&color=ff00ff&point=ff00ff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAsh-Dev&theme=react-dark&hide_border=true&area=true&color=fe42c1&point=fe42c1" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="100%" colspan="2">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarAsh-Dev&theme=tokyonight&utcOffset=2" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarAsh-Dev&theme=tokyonight" width="100%" /></td>
-      <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarAsh-Dev&theme=tokyonight" width="100%" /></td>
-    </tr>
-  </table>
+  <div style="width: 70%;"> <table border="0" width="100%">
+      <tr>
+        <td align="center" width="100%" colspan="2">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarAsh-Dev&theme=tokyonight&utcOffset=2" width="100%" />
+        </td>
+      </tr>
+      <tr>
+        <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarAsh-Dev&theme=tokyonight" width="100%" /></td>
+        <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarAsh-Dev&theme=tokyonight" width="100%" /></td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ---
