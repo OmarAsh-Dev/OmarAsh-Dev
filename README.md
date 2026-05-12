@@ -4,9 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=OmarAsh-Dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="OmarAsh-Dev" />
 </p>
 
-> **Full-Stack Software Engineer**  
-
----
+> **Full-Stack Software Engineer** ---
 
 ### 🛠 Technical Ecosystem
 
@@ -29,8 +27,9 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarAsh-Dev&theme=tokyonight" width="100%" /></td>
-      <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarAsh-Dev&theme=tokyonight&utcOffset=2" width="100%" /></td>
+      <td align="center" width="100%" colspan="2">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarAsh-Dev&theme=tokyonight&utcOffset=2" width="100%" />
+      </td>
     </tr>
     <tr>
       <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarAsh-Dev&theme=tokyonight" width="100%" /></td>
@@ -45,6 +44,6 @@
 
 <p align="left">
   <a href="https://github.com/OmarAsh-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/omar-ahmed-5738ab332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/omar-ahmed-5738ab332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
