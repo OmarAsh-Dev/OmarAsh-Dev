@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td><b>AI & Automation</b></td>
-      <td><code>LLM API Gateways</code> <code>GPT-5.3 Integration</code> <code>Automated Workflows</code></td>
+      <td><code>LLM API Gateways</code> <code>GPT-5.5 Integration</code> <code>Automated Workflows</code></td>
     </tr>
   </table>
 </div>
