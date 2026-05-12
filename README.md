@@ -6,16 +6,15 @@
 
 > **Full-Stack Software Engineer** ---
 
-### 🛠 Technical Ecosystem
+## Portfolio
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,react,ts,nodejs,redux,nextjs,bun,py,fastapi,php,dart,flutter,postgres,mysql,redis,mongodb,prisma,bash,docker,githubactions,git,postman" />
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,electron,nodejs,py,go,postman" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,githubactions,git,bash" />
-
-  <br/><br/>
-
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <th>Category</th>
@@ -27,17 +26,17 @@
     </tr>
     <tr>
       <td><b>AI & Automation</b></td>
-      <td><code>LLM API Gateways</code> <code>GPT-5.5 Integration</code> <code>Automated Workflows</code></td>
+      <td><code>LLM API Gateways</code> <code>GPT-5.3 Integration</code> <code>Automated Workflows</code></td>
     </tr>
   </table>
 </div>
 
 ---
 
-### 📊 System Metrics & Activity
+## 📊 System Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAsh-Dev&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAsh-Dev&theme=react-dark&hide_border=true&area=true&color=ff00ff&point=ff00ff" width="100%" />
 </div>
 
 <br />
