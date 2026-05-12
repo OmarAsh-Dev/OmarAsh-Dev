@@ -8,15 +8,27 @@
 
 ### 🛠 Technical Ecosystem
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,electron,nodejs,py,go,postman" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,githubactions,git,bash" />
-</div>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **GIS & Mapping** | `GDAL` `rio-tiler` `OpenLayers` `WebP Tiling` `Custom Map Engines` |
-| **AI & Automation** | `LLM API Gateways` `GPT-5.3 Integration` `Automated Workflows` |
+  <br/><br/>
+
+  <table style="margin-left: auto; margin-right: auto;">
+    <tr>
+      <th>Category</th>
+      <th>Tools & Technologies</th>
+    </tr>
+    <tr>
+      <td><b>GIS & Mapping</b></td>
+      <td><code>GDAL</code> <code>rio-tiler</code> <code>OpenLayers</code> <code>WebP Tiling</code> <code>Custom Map Engines</code></td>
+    </tr>
+    <tr>
+      <td><b>AI & Automation</b></td>
+      <td><code>LLM API Gateways</code> <code>GPT-5.3 Integration</code> <code>Automated Workflows</code></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
