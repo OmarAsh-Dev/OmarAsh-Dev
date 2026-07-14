@@ -9,7 +9,7 @@
 ## Portfolio
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,react,ts,nodejs,redux,nextjs,bun,py,fastapi,php,dart,flutter,postgres,mysql,redis,mongodb,prisma,bash,docker,githubactions,git,postman" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,nodejs,py,fastapi,flask,rust,tauri,electron,postgres,mysql,redis,mongodb,bash,githubactions,git,postman" />
 </div>
 
 <br/>
