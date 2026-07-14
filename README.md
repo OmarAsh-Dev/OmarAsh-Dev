@@ -21,13 +21,21 @@
       <th>Tools & Technologies</th>
     </tr>
     <tr>
-      <td><b>GIS & Mapping</b></td>
-      <td><code>GDAL</code> <code>rio-tiler</code> <code>OpenLayers</code> <code>WebP Tiling</code> <code>Custom Map Engines</code></td>
+      <td><b>Interactive 3D & Frontend</b></td>
+      <td><code>Three.js</code> <code>React</code> <code>Next.js</code> <code>Tailwind CSS</code> <code>UI/UX Design</code></td>
     </tr>
     <tr>
-      <td><b>AI & Automation</b></td>
-      <td><code>LLM API Gateways</code> <code>GPT-5.5 Integration</code> <code>Automated Workflows</code></td>
+      <td><b>GIS & Custom Mapping</b></td>
+      <td><code>MapLibre GL</code> <code>GDAL</code> <code>rio-tiler</code> <code>WebP Tiling</code> <code>Geolocation Routing</code></td>
     </tr>
+    <tr>
+      <td><b>Backend & Desktop Apps</b></td>
+      <td><code>Node.js</code> <code>Python</code> <code>FastAPI</code> <code>Rust</code> <code>Tauri</code> <code>Electron</code></td>
+    </tr>
+ <!--   <tr>
+      <td><b>AI & Automation</b></td>
+      <td><code>LLM API Gateways</code> <code>GPT-5.6 Integration</code> <code>Local Model Ops</code> <code>Automated Workflows</code></td>
+    </tr> -->
   </table>
 </div>
 
