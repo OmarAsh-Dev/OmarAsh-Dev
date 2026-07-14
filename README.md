@@ -1,7 +1,7 @@
 # 🚀 Hi, I'm Omar Ahmed
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=OmarAsh-Dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="OmarAsh-Dev" />
+  <img src="https://komarev.com/ghpvc/?username=OmarAsh-Dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="OmarAsh-Dev" width="1" height="1" />
 </p>
 
 > **Full-Stack Software Engineer** ---
